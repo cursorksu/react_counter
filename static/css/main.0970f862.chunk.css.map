@@ -1,0 +1,1 @@
+{"version":3,"sources":["Counter.css","App.css"],"names":[],"mappings":"AAAA,KACE,WACF,CCFA,WACE,aAAc,CACd,iBAAkB,CAClB,iBACF","file":"main.0970f862.chunk.css","sourcesContent":[".btn {\n  margin: 30px;\n}\n",".jumbotron {\n  max-width: 60%;\n  margin: 100px auto;\n  text-align: center;\n}\n"]}
